@@ -26,3 +26,10 @@ H becomes R.
 E becomes M.
 L becomes W.
 O becomes L
+
+For site testing purposes :
+Regular alphabet key:
+abcdefghijklmnopqrstuvwxyz
+
+Substitution alphabet key
+xoyqmcgrukswaflnthdjpzibev
