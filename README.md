@@ -29,4 +29,4 @@ For example, above, the word HELLO would be translated as follows:
 H becomes R.
 E becomes M.
 L becomes W.
-O becomes L.
+O becomes L
