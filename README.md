@@ -17,8 +17,8 @@ The Polybius square is a cipher that is achieved by arranging a typical alphabet
 
 The substitution cipher requires a standard alphabet and a substitution alphabet. Letters from the standard alphabet will be transposed to the standard alphabet. This cipher requires that the recipient have the substitution alphabet, otherwise it will be difficult for them to decode the message.
 
-a b c d e f g h i j k l m n o p q r s t u v w x y z
-x o y q m c g r u k s w a f l n t h d j p z i b e v
+![Sub cypher](https://user-images.githubusercontent.com/90927148/170598300-31864d88-36be-4ae6-bd62-6e732071e82e.jpg)
+
 
 For example, above, the word HELLO would be translated as follows:
 
